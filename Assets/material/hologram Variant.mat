@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: hologram Variant
+  m_Shader: {fileID: -6465566751694194690, guid: 1e9ca364c2b2e4e099ae70dcccdee8dc, type: 3}
+  m_Parent: {fileID: -876546973899608171, guid: 1e9ca364c2b2e4e099ae70dcccdee8dc, type: 3}
+  m_ModifiedSerializedProperties: 2
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_18351d5953b0413d90fee640247c278b_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 7cd5c536890db4503ab5215b93d95457, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_3fce1b826901456fb7dc69ad61e60d88_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 08897625b3b154e24801a5af324c6fef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _hologram_tex:
+        m_Texture: {fileID: 2800000, guid: 8163beef7615846e78e4657476e52dc2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _triangle:
+        m_Texture: {fileID: 2800000, guid: ee38adc4618c0415abe6c6ce8078f62e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Float: 1
+    - _QueueControl: 0
+    - _emission: 0.3
+    - _fresnel_power: 0.5
+    - _fresnel_radius: 0.34
+    - _time_speed: 13.96
+    m_Colors:
+    - _emission_color: {r: 0.7216981, g: 1, b: 0.9501149, a: 0.019607844}
+    - _fresnel_color: {r: 0.81960785, g: 0.18039216, b: 0.1868503, a: 0}
+    - _hologram_tiling: {r: 0, g: 0.77, b: 0, a: 0}
+    - _miancolor: {r: 0.24056602, g: 0.92947155, b: 1, a: 0.20392157}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &3612287737966525329
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9

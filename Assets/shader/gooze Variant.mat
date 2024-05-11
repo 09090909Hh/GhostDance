@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-124739603349503175
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: gooze Variant
+  m_Shader: {fileID: -6465566751694194690, guid: b3c4202381a6044a9a673f1195824dc2, type: 3}
+  m_Parent: {fileID: -876546973899608171, guid: b3c4202381a6044a9a673f1195824dc2, type: 3}
+  m_ModifiedSerializedProperties: 2
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _basic_tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _triangles:
+        m_Texture: {fileID: 2800000, guid: ee38adc4618c0415abe6c6ce8078f62e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _QueueControl: 0
+    - _color_reflection_strength: 0
+    - _fresnel_power: 2
+    - _metallic: 0
+    - _reflection_strength: 0.61
+    - _smoothless: 0
+    - _speed: 0.34
+    m_Colors:
+    - _Color: {r: 0.84126914, g: 0.87024665, b: 0.8962264, a: 0}
+    - _fresnel_color: {r: 0.047058817, g: 0.44313726, b: 0.4241469, a: 0}
+    - _relfection_threshold: {r: 0.69, g: 1.39, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

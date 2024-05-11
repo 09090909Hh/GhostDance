@@ -1,0 +1,19 @@
+
+=== Thu Mar 28 17:02:04 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.modules.accessibility@1.0.0
+The following packages were updated:
+  com.unity.ai.navigation from version 1.1.5 to 2.0.0
+  com.unity.feature.development from version 1.0.1 to 1.0.2
+  com.unity.render-pipelines.universal from version 14.0.8 to 16.0.4
+  com.unity.ugui from version 1.0.0 to 2.0.0
+  com.unity.xr.arcore from version 5.0.7 to 5.1.0
+  com.unity.xr.arfoundation from version 5.0.7 to 5.1.0
+  com.unity.xr.arkit from version 5.0.7 to 5.1.0
+  com.unity.xr.openxr from version 1.8.2 to 1.9.1
+The following packages were removed:
+  com.unity.textmeshpro@3.0.6
