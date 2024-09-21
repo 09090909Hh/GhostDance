@@ -34,4 +34,25 @@ It is possible to achieve almost no error in the stationary standing state, but 
 <img width="700" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/aacce019-205e-4e5d-aab6-2410915c6246">
 <img width="307" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/e2b62859-989d-4108-9f2c-79d74d75d5e0">
 
+### Character Animation
+
+#### First testing
+
+Using Movie One to capture the movements of people, then the application provided us the skeletal animation through AI recognition.
+
+<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/da423ceb-7005-4e68-9f75-060cbda2ef06">
+<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/b7c79f7d-66b1-4cfc-92dc-42c18072bfb3">
+
+Drawback: This application only support 1 minute record, making the actors cannot perform coherently.
+
+#### Second testing
+
+Uploading the existent videos to the Racical which is an AI recognition website to gain a skeletal animation. After that, the model should be rigged with the skeleton with that animation manually.
+
+<img width="1512" alt="b8746d75fc60efeba90bab1ed4a46e2" src="https://github.com/user-attachments/assets/2b5ff1e2-9a2b-4970-8c79-e11121febda9">
+
+<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/9c7128a5-2113-4297-ae24-1aeabd6c4d83">
+<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/a9110297-4560-4980-9387-6910dd339b83">
+
+Drawback: This website is only able to recognise 1 minute video.
 
