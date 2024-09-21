@@ -61,4 +61,14 @@ Drawback: This website is only able to recognise 1 minute video.
 
 Drawback: The capture was not strict accurate and the whole position of human drifted to a certain extent. what's more, the actor's changes of height cannot be recognised, which is a key part of this project.
 
+#### Final testing
+
+Using Xsens motion capture technology to obtain the skeletal animation. Unlike optical motion capture, Xsens' device fixes sensors directly on the motion capture suit which can recognize the acceleration rate and orientation of each sensor to track the exact position of the skeleton. We recorded the movements of the two dancers separately, but made sure that all the movements in the second recording exactly matched the movements in the first recording.
+
+![9月3日(2)](https://github.com/user-attachments/assets/269a819f-606a-45bd-ad86-8212f58febf3)
+
+![Uploading 微信图片_202404261124181.jpg…]()
+
+<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/8cf4cef0-42f8-47c2-ba38-94c38963da0a">
+<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/773f1d67-4363-4bb2-a3bb-efdb88d93f1b">
 
