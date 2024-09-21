@@ -27,11 +27,7 @@ Immersal which is a spatial scanning technique is utilized to build the venue in
 
 It is possible to achieve almost no error in the stationary standing state, but there is a drift under movement, and this drift increases with movement, with a maximum variation of about 4cm. It takes 3-4 seconds to auto-calibrate after a drift. Moreover, instability occurs at roughly 6m from the center of stage. And it has been tested that having radar on the phone will improve the stability.
 
-<img width="455" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/0be7192c-dfa0-437c-be4f-9eeda08d09e8">
-<img width="455" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/028ccbd2-61c2-4289-802e-fc604451f97c">
-
-<img width="632" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/aacce019-205e-4e5d-aab6-2410915c6246">
-<img width="277" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/e2b62859-989d-4108-9f2c-79d74d75d5e0">
+<img width="907" alt="Screenshot 2024-09-21 at 22 24 35" src="https://github.com/user-attachments/assets/773d5683-d918-44ed-af87-39a2cbe250af">
 
 ### Character Animation
 
@@ -39,24 +35,20 @@ It is possible to achieve almost no error in the stationary standing state, but 
 
 Using Movie One to capture the movements of people, then the application provided us the skeletal animation through AI recognition.
 
-<img width="456" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/da423ceb-7005-4e68-9f75-060cbda2ef06">
-<img width="454" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/b7c79f7d-66b1-4cfc-92dc-42c18072bfb3">
+<img width="909" alt="Screenshot 2024-09-21 at 22 24 24" src="https://github.com/user-attachments/assets/7c91fb5d-ed6e-44f7-8f7a-20f59fc19cfa">
 
 Drawback: This application only support 1 minute record, making the actors cannot perform coherently.
 
 #### Second testing
 
 Uploading the existent videos to the Racical which is an AI recognition website to gain a skeletal animation. After that, the model should be rigged with the skeleton with that animation manually.
+<img width="1512" alt="Screenshot 2024-04-07 at 13 54 18" src="https://github.com/user-attachments/assets/48b80980-e4aa-490e-91f8-c19d22d4bf12">
 
-<img width="1512" alt="b8746d75fc60efeba90bab1ed4a46e2" src="https://github.com/user-attachments/assets/2b5ff1e2-9a2b-4970-8c79-e11121febda9">
-
-<img width="457" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/9c7128a5-2113-4297-ae24-1aeabd6c4d83">
-<img width="457" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/a9110297-4560-4980-9387-6910dd339b83">
+<img width="912" alt="Screenshot 2024-09-21 at 22 24 04" src="https://github.com/user-attachments/assets/ca6e4ee8-7570-49cf-bfd7-9bf755b083a8">
 
 Drawback: This website is only able to recognise 1 minute video.
 
-<img width="457" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/98029276-282a-445b-822f-164b2c092101">
-<img width="457" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/c9d5b0a8-bff4-432e-9d9b-37a7168224a7">
+<img width="914" alt="Screenshot 2024-09-21 at 22 23 56" src="https://github.com/user-attachments/assets/eb4b671a-af31-4842-ae11-53f7f157613a">
 
 Drawback: The capture was not strict accurate and the whole position of human drifted to a certain extent. what's more, the actor's changes of height cannot be recognised, which is a key part of this project.
 
@@ -67,9 +59,7 @@ Using Xsens motion capture technology to obtain the skeletal animation. Unlike o
 ![9月3日(2)](https://github.com/user-attachments/assets/269a819f-606a-45bd-ad86-8212f58febf3)
 
 ![微信图片_202404261124181](https://github.com/user-attachments/assets/47ede650-0716-463f-a036-4a00f0e1748d)
-
-<img width="463" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/8cf4cef0-42f8-47c2-ba38-94c38963da0a">
-<img width="463" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/773f1d67-4363-4bb2-a3bb-efdb88d93f1b">
+<img width="925" alt="Screenshot 2024-09-21 at 22 23 48" src="https://github.com/user-attachments/assets/cc97734f-03dd-4e4a-a5e5-93fd544e8fb4">
 
 ### weapon
 
