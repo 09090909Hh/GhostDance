@@ -14,4 +14,6 @@ In our project, we deliberately made performer not wear the ar headset, so that 
 
 Performance need to ensure the consistency of the opera image in the eyes of all audience. In addition, we cannot expect and ask all our participants to open the program at the same time to realize this precise requirement.
 
-![image](https://github.com/user-attachments/assets/c0fa377e-6ffb-4cfb-9aca-e257c9389e1a)
+<img width="680" alt="Screenshot 2024-04-28 at 16 17 16" src="https://github.com/user-attachments/assets/ff24c17e-dd14-4d3b-8f05-f5c53e3a528d">
+
+<img width="680" alt="Screenshot 2024-04-28 at 16 59 28" src="https://github.com/user-attachments/assets/361033ae-a799-4985-8be5-3e82c5fcd174">
