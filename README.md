@@ -1,4 +1,4 @@
-![微信截图_20240428160207](https://github.com/user-attachments/assets/003fda46-1c33-4de8-8b31-73003174695b)![微信截图_20240428160226](https://github.com/user-attachments/assets/7d3e2210-9461-43cd-bcac-03c383776f29)# Crossroads-Phantom Opera
+# Crossroads-Phantom Opera
 
 "Crossroads-Phantom Opera" is an experimental performance that combines augmented reality technology with opera performance. It explores the possibilities of integrating cutting-edge technology with traditional performances, based on the classic Chinese Peking opera "Crossroads". In this performance, AR technology is used to recreate one of the core characters as a virtual phantom, who interacts with real opera actors during rehearsals and performances.
 
