@@ -50,13 +50,13 @@ Uploading the existent videos to the Racical which is an AI recognition website 
 
 <img width="1512" alt="b8746d75fc60efeba90bab1ed4a46e2" src="https://github.com/user-attachments/assets/2b5ff1e2-9a2b-4970-8c79-e11121febda9">
 
-<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/9c7128a5-2113-4297-ae24-1aeabd6c4d83">
-<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/a9110297-4560-4980-9387-6910dd339b83">
+<img width="457" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/9c7128a5-2113-4297-ae24-1aeabd6c4d83">
+<img width="457" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/a9110297-4560-4980-9387-6910dd339b83">
 
 Drawback: This website is only able to recognise 1 minute video.
 
-<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/98029276-282a-445b-822f-164b2c092101">
-<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/c9d5b0a8-bff4-432e-9d9b-37a7168224a7">
+<img width="457" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/98029276-282a-445b-822f-164b2c092101">
+<img width="457" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/c9d5b0a8-bff4-432e-9d9b-37a7168224a7">
 
 Drawback: The capture was not strict accurate and the whole position of human drifted to a certain extent. what's more, the actor's changes of height cannot be recognised, which is a key part of this project.
 
@@ -68,8 +68,8 @@ Using Xsens motion capture technology to obtain the skeletal animation. Unlike o
 
 ![微信图片_202404261124181](https://github.com/user-attachments/assets/47ede650-0716-463f-a036-4a00f0e1748d)
 
-<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/8cf4cef0-42f8-47c2-ba38-94c38963da0a">
-<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/773f1d67-4363-4bb2-a3bb-efdb88d93f1b">
+<img width="463" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/8cf4cef0-42f8-47c2-ba38-94c38963da0a">
+<img width="463" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/773f1d67-4363-4bb2-a3bb-efdb88d93f1b">
 
 ### weapon
 
