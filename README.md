@@ -56,3 +56,9 @@ Uploading the existent videos to the Racical which is an AI recognition website 
 
 Drawback: This website is only able to recognise 1 minute video.
 
+<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/98029276-282a-445b-822f-164b2c092101">
+<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/c9d5b0a8-bff4-432e-9d9b-37a7168224a7">
+
+Drawback: The capture was not strict accurate and the whole position of human drifted to a certain extent. what's more, the actor's changes of height cannot be recognised, which is a key part of this project.
+
+
