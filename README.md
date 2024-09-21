@@ -30,8 +30,8 @@ It is possible to achieve almost no error in the stationary standing state, but 
 <img width="455" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/0be7192c-dfa0-437c-be4f-9eeda08d09e8">
 <img width="455" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/028ccbd2-61c2-4289-802e-fc604451f97c">
 
-<img width="643" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/aacce019-205e-4e5d-aab6-2410915c6246">
-<img width="283" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/e2b62859-989d-4108-9f2c-79d74d75d5e0">
+<img width="632" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/aacce019-205e-4e5d-aab6-2410915c6246">
+<img width="277" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/e2b62859-989d-4108-9f2c-79d74d75d5e0">
 
 ### Character Animation
 
