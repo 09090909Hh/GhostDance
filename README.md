@@ -41,7 +41,7 @@ Drawback: This application only support 1 minute record, making the actors canno
 
 #### Second testing
 
-Uploading the existent videos to the Racical which is an AI recognition website to gain a skeletal animation. After that, the model should be rigged with the skeleton with that animation manually.
+Uploading the existing videos to the Racical which is an AI recognition website to gain a skeletal animation. After that, the model should be rigged with the skeleton with that animation manually.
 <img width="1512" alt="Screenshot 2024-04-07 at 13 54 18" src="https://github.com/user-attachments/assets/48b80980-e4aa-490e-91f8-c19d22d4bf12">
 
 <img width="912" alt="Screenshot 2024-09-21 at 22 24 04" src="https://github.com/user-attachments/assets/ca6e4ee8-7570-49cf-bfd7-9bf755b083a8">
@@ -77,9 +77,8 @@ Programs run with dropped frames, resulting in multiple devices being unable to 
 
 Real-time detection of engineering operation frame rate
 
-<img width="518" alt="Screenshot 2024-06-18 at 12 26 03" src="https://github.com/user-attachments/assets/c1bd73de-ee78-494b-a72c-3c6e7aa695bf">
-
-<img width="923" alt="Screenshot 2024-06-15 at 16 53 11" src="https://github.com/user-attachments/assets/e88ea6b2-5f2d-4521-8a39-453d053825ea">
+<img width="500" alt="Screenshot 2024-06-18 at 12 26 03" src="https://github.com/user-attachments/assets/c1bd73de-ee78-494b-a72c-3c6e7aa695bf">
+<img width="500" alt="Screenshot 2024-06-15 at 16 53 11" src="https://github.com/user-attachments/assets/e88ea6b2-5f2d-4521-8a39-453d053825ea">
 
 Music is added in project to assist performers in rehearsals.
 
@@ -87,6 +86,21 @@ Music is added in project to assist performers in rehearsals.
 
 Even using AR Occlusion in Unity, occlusion is still the biggest problem visually.
 
-![9月3日(11)](https://github.com/user-attachments/assets/d812fce9-7ff3-484f-8090-69d15f07eb40)
+<img width="996" alt="Screenshot 2024-09-21 at 23 26 25" src="https://github.com/user-attachments/assets/722910f8-0da6-4790-b2bc-ff5244981b1c">
 
+## Visual Appearance
+
+Build a 3D model based on the image from the original opera and import it into unity, then use vfx and shader to create special effects with ghost characteristics. In addition, the weapons are restored to the original opera image.
+
+<img width="699" alt="Screenshot 2024-09-21 at 23 35 29" src="https://github.com/user-attachments/assets/bba1d318-0d48-4731-a330-9331619a9e85">
+
+## Performance
+
+![WechatIMG1221](https://github.com/user-attachments/assets/c036a201-1830-426f-bc6f-57c1d11cd281)
+
+![9月3日(12)](https://github.com/user-attachments/assets/2017bc83-c246-4a06-9248-b367dd251e5b)
+
+![9月3日(9)](https://github.com/user-attachments/assets/631abe0f-6f43-4d48-a1f4-b668ff21af7b)
+
+<img width="901" alt="Screenshot 2024-09-21 at 23 37 44" src="https://github.com/user-attachments/assets/5ffa93e5-3e95-4c9b-9171-4d71ea22ae0d">
 
