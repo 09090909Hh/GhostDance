@@ -14,9 +14,8 @@ In our project, we deliberately made performer not wear the ar headset, so that 
 
 Performance need to ensure the consistency of the opera image in the eyes of all audience. In addition, we cannot expect and ask all our participants to open the program at the same time to realize this precise requirement.
 
-<img width="680" alt="Screenshot 2024-04-28 at 16 17 16" src="https://github.com/user-attachments/assets/ff24c17e-dd14-4d3b-8f05-f5c53e3a528d">
-
-<img width="680" alt="Screenshot 2024-04-28 at 16 59 28" src="https://github.com/user-attachments/assets/361033ae-a799-4985-8be5-3e82c5fcd174">
+<img width="650" alt="Screenshot 2024-04-28 at 16 17 16" src="https://github.com/user-attachments/assets/ff24c17e-dd14-4d3b-8f05-f5c53e3a528d">
+<img width="650" alt="Screenshot 2024-04-28 at 16 59 28" src="https://github.com/user-attachments/assets/361033ae-a799-4985-8be5-3e82c5fcd174">
 
 ### Spatial Synchronization
 
@@ -28,11 +27,11 @@ Immersal which is a spatial scanning technique is utilized to build the venue in
 
 It is possible to achieve almost no error in the stationary standing state, but there is a drift under movement, and this drift increases with movement, with a maximum variation of about 4cm. It takes 3-4 seconds to auto-calibrate after a drift. Moreover, instability occurs at roughly 6m from the center of stage. And it has been tested that having radar on the phone will improve the stability.
 
-<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/0be7192c-dfa0-437c-be4f-9eeda08d09e8">
-<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/028ccbd2-61c2-4289-802e-fc604451f97c">
+<img width="455" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/0be7192c-dfa0-437c-be4f-9eeda08d09e8">
+<img width="455" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/028ccbd2-61c2-4289-802e-fc604451f97c">
 
-<img width="700" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/aacce019-205e-4e5d-aab6-2410915c6246">
-<img width="307" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/e2b62859-989d-4108-9f2c-79d74d75d5e0">
+<img width="643" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/aacce019-205e-4e5d-aab6-2410915c6246">
+<img width="283" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/e2b62859-989d-4108-9f2c-79d74d75d5e0">
 
 ### Character Animation
 
@@ -40,8 +39,8 @@ It is possible to achieve almost no error in the stationary standing state, but 
 
 Using Movie One to capture the movements of people, then the application provided us the skeletal animation through AI recognition.
 
-<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/da423ceb-7005-4e68-9f75-060cbda2ef06">
-<img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/b7c79f7d-66b1-4cfc-92dc-42c18072bfb3">
+<img width="456" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/da423ceb-7005-4e68-9f75-060cbda2ef06">
+<img width="454" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/b7c79f7d-66b1-4cfc-92dc-42c18072bfb3">
 
 Drawback: This application only support 1 minute record, making the actors cannot perform coherently.
 
