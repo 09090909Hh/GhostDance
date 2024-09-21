@@ -65,5 +65,28 @@ Using Xsens motion capture technology to obtain the skeletal animation. Unlike o
 
 Import the weapon model into unity and bind the weapon model to the right hand palm bone of the character through code, and ensure that the position and rotation of the weapon are synchronized with the hand in real time.
 
-<img width="1020" alt="Screenshot 2024-06-18 at 12 33 22" src="https://github.com/user-attachments/assets/f6ee97dd-c486-4c2a-bb48-c3df0336a8b8">
+<img width="750" alt="Screenshot 2024-06-18 at 12 33 22" src="https://github.com/user-attachments/assets/f6ee97dd-c486-4c2a-bb48-c3df0336a8b8">
+
+<img width="571" alt="Screenshot 2024-05-09 at 14 50 45" src="https://github.com/user-attachments/assets/eb45f8f4-4b08-477f-8c0c-b8ebeb79e891">
+
+## Rehearsal and problems
+
+Programs run with dropped frames, resulting in multiple devices being unable to synchronize their performances. The solution is to configure VSync to set the target frame rate to 30fps, which is lower than the default 60fps running frame rate of cell phones.
+
+<img width="398" alt="Screenshot 2024-09-21 at 22 39 48" src="https://github.com/user-attachments/assets/9619c336-ae13-4cd4-a2db-035098e91b1b">
+
+Real-time detection of engineering operation frame rate
+
+<img width="518" alt="Screenshot 2024-06-18 at 12 26 03" src="https://github.com/user-attachments/assets/c1bd73de-ee78-494b-a72c-3c6e7aa695bf">
+
+<img width="923" alt="Screenshot 2024-06-15 at 16 53 11" src="https://github.com/user-attachments/assets/e88ea6b2-5f2d-4521-8a39-453d053825ea">
+
+Music is added in project to assist performers in rehearsals.
+
+4<img width="544" alt="Screenshot 2024-06-18 at 12 25 56" src="https://github.com/user-attachments/assets/eeb485cf-6f78-4657-979a-15a18aa47527">
+
+Even using AR Occlusion in Unity, occlusion is still the biggest problem visually.
+
+![9月3日(11)](https://github.com/user-attachments/assets/d812fce9-7ff3-484f-8090-69d15f07eb40)
+
 
