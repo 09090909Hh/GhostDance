@@ -82,7 +82,7 @@ Real-time detection of engineering operation frame rate
 
 Music is added in project to assist performers in rehearsals.
 
-4<img width="544" alt="Screenshot 2024-06-18 at 12 25 56" src="https://github.com/user-attachments/assets/eeb485cf-6f78-4657-979a-15a18aa47527">
+<img width="544" alt="Screenshot 2024-06-18 at 12 25 56" src="https://github.com/user-attachments/assets/eeb485cf-6f78-4657-979a-15a18aa47527">
 
 Even using AR Occlusion in Unity, occlusion is still the biggest problem visually.
 
