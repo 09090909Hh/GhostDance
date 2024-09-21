@@ -67,8 +67,14 @@ Using Xsens motion capture technology to obtain the skeletal animation. Unlike o
 
 ![9月3日(2)](https://github.com/user-attachments/assets/269a819f-606a-45bd-ad86-8212f58febf3)
 
-![Uploading 微信图片_202404261124181.jpg…]()
+![微信图片_202404261124181](https://github.com/user-attachments/assets/47ede650-0716-463f-a036-4a00f0e1748d)
 
 <img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/8cf4cef0-42f8-47c2-ba38-94c38963da0a">
 <img width="503" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/773f1d67-4363-4bb2-a3bb-efdb88d93f1b">
+
+### weapon
+
+Import the weapon model into unity and bind the weapon model to the right hand palm bone of the character through code, and ensure that the position and rotation of the weapon are synchronized with the hand in real time.
+
+<img width="1020" alt="Screenshot 2024-06-18 at 12 33 22" src="https://github.com/user-attachments/assets/f6ee97dd-c486-4c2a-bb48-c3df0336a8b8">
 
