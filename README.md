@@ -12,7 +12,7 @@ In our project, we deliberately made performer not wear the ar headset, so that 
 
 ![9月3日(1)](https://github.com/user-attachments/assets/9af07cd3-fcc5-4ced-aedd-0d562ea4d7b1)
 
-## production
+## Production
 
 ### Time Synchronization
 
@@ -65,7 +65,7 @@ Using Xsens motion capture technology to obtain the skeletal animation. Unlike o
 ![微信图片_202404261124181](https://github.com/user-attachments/assets/47ede650-0716-463f-a036-4a00f0e1748d)
 <img width="925" alt="Screenshot 2024-09-21 at 22 23 48" src="https://github.com/user-attachments/assets/cc97734f-03dd-4e4a-a5e5-93fd544e8fb4">
 
-### weapon
+### Weapon
 
 Import the weapon model into unity and bind the weapon model to the right hand palm bone of the character through code, and ensure that the position and rotation of the weapon are synchronized with the hand in real time.
 
