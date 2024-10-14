@@ -108,3 +108,12 @@ Build a 3D model based on the image from the original opera and import it into u
 
 <img width="1300" alt="Screenshot 2024-09-21 at 23 37 44" src="https://github.com/user-attachments/assets/5ffa93e5-3e95-4c9b-9171-4d71ea22ae0d">
 
+## Requirements
+
+This project aims to build an app runs on iOS device.
+
+1.Unity 2023.2.1f1
+
+2.Xcode 15.2
+
+3.iPhone with lidar capability
