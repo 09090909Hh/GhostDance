@@ -14,7 +14,7 @@ In our project, we deliberately made performer not wear the ar headset, so that 
 
 ## Video
 
-[![Watch the video](https://img.youtube.com/vi/ldTnzZ1dNXs/10.jpg)](https://www.youtube.com/watch?v=ldTnzZ1dNXs)
+[![Watch the video](https://img.youtube.com/vi/ldTnzZ1dNXs/0.jpg)](https://www.youtube.com/watch?v=ldTnzZ1dNXs)
 
 ## Production
 
