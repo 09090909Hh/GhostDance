@@ -14,7 +14,7 @@ In our project, we deliberately made performer not wear the ar headset, so that 
 
 ## Video
 
-[![Watch the video](https://img.youtube.com/vi/ldTnzZ1dNXs/0.jpg)](https://www.youtube.com/watch?v=ldTnzZ1dNXs)[![Watch the video](https://img.youtube.com/vi/ldTnzZ1dNXs/0.jpg)](https://www.youtube.com/watch?v=ldTnzZ1dNXs)
+[![Watch the video](https://img.youtube.com/vi/ldTnzZ1dNXs/10.jpg)](https://www.youtube.com/watch?v=ldTnzZ1dNXs)
 
 ## Production
 
@@ -95,6 +95,10 @@ Music is added in project to assist performers in rehearsals.
 Even using AR Occlusion in Unity, occlusion is still the biggest problem visually.
 
 <img width="996" alt="Screenshot 2024-09-21 at 23 26 25" src="https://github.com/user-attachments/assets/722910f8-0da6-4790-b2bc-ff5244981b1c">
+
+### Test Record Video
+
+[![Watch the video](https://img.youtube.com/vi/qRHSnfFvLDA/0.jpg)](https://www.youtube.com/watch?v=qRHSnfFvLDA)
 
 ## Visual Appearance
 
