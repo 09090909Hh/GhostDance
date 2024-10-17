@@ -12,6 +12,10 @@ In our project, we deliberately made performer not wear the ar headset, so that 
 
 ![9月3日(1)](https://github.com/user-attachments/assets/9af07cd3-fcc5-4ced-aedd-0d562ea4d7b1)
 
+## Video
+
+[![Watch the video](https://img.youtube.com/vi/ldTnzZ1dNXs/0.jpg)](https://www.youtube.com/watch?v=ldTnzZ1dNXs)[![Watch the video](https://img.youtube.com/vi/ldTnzZ1dNXs/0.jpg)](https://www.youtube.com/watch?v=ldTnzZ1dNXs)
+
 ## Production
 
 ### Time Synchronization
